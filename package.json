@@ -1,7 +1,7 @@
 {
   "name": "miasma",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal website portfolio",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "dev": "webpack --config webpack.dev.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Schandin",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
